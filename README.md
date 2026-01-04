@@ -89,14 +89,14 @@ src/
 ```
 # 🚀 Getting Started
 1️⃣ Clone Repository
-```git clone <your-repo-url>
-cd neuraDynamicsEcommApp```
+```git clone https://github.com/Satya6608/neuradyanamicsecomm```
+cd neuradyanamicsecomm
 
 2️⃣ Install Dependencies
 ```npm install```
 
 3️⃣ Run Development Server
-npm run dev
+```npm run dev```
 
 
 ## Open:
@@ -105,7 +105,7 @@ npm run dev
 # 🔗 API Used
 
 Fake Store API
-https://fakestoreapi.com/products
+```https://fakestoreapi.com/products```
 
 Used for:
 Product listing

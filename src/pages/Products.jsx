@@ -2,10 +2,8 @@ import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchProducts } from "../features/products/productsSlice";
 import { selectFilteredProducts } from "../features/products/productsSelectors";
-import { toggleWishlist } from "../features/wishlist/wishlistSlice";
-import { addToCart } from "../features/cart/cartSlice";
 import ProductCard from "../components/productCard";
-import ProductFilters from "../components/ProductFilters";
+import ProductFilters from "../components/productFilters";
 import loadingGif from "../assets/Img/giphy.gif";
 
 const ProductListing = () => {
