@@ -4,6 +4,24 @@ A modern, scalable **E-commerce frontend application** built using **React**, **
 This project demonstrates **real-world frontend architecture**, **state management**, **performance optimizations**, and **production-grade testing**.
 
 ---
+## 🌐 Live Demo
+
+🔗 **Live Application:**  
+https://your-live-link-here
+
+> Deployed using **Vercel / Netlify** for fast global delivery.
+
+## 🎥 Video Walkthrough
+
+📽️ **Project Walkthrough Video:**  
+[Video Whole walkthrough](https://drive.google.com/file/d/1jHkvoKC-Q1mnST5GHyK20KRu-SMsakFD/view?usp=drive_link)
+
+> This video demonstrates the complete application flow including:
+> - Product Listing & Filtering
+> - Product Detail Page
+> - Wishlist & Cart functionality
+> - Responsive Navbar
+> - Test coverage overview
 
 ## ✨ Features Overview
 
